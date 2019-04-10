@@ -44,6 +44,7 @@ public class Converter {
                     decimal = processDecimal(1, lastNumber, decimal);
                     lastNumber = 1;
                     break;
+
             }
         }
         return decimal;
